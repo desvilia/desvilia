@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences : I only had hard life experiences
 
-- ⚡ Fun fact *I fall in love with 'A' 🤍*
+<p align="right"> ⚡ Fun fact *I fall in love with 'A' 🤍*></p>
 
 <p align="right"><img src="https://user-images.githubusercontent.com/126872569/223807130-ad7c4803-687f-4622-a560-b778a1af14b4.gif"></p>
 
