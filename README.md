@@ -6,17 +6,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=desvilia&label=Profile%20views&color=0e75b6&style=flat" alt="desvilia" /> </p>
 
-- 🔭 I'm Teaching Chineese Language at [Blessing course](https://blessing-dempo.business.site/)
+ 🔭 I'm Teaching Chineese Language at [Blessing course](https://blessing-dempo.business.site/)
 
-- 🤓 I’m currently learning more about *Technology👩🏻‍💻*
+ 🤓 I’m currently learning more about *Technology👩🏻‍💻*
 
-- 🍴 All kind potatoes Lovers 🍟🥔, [Budidaya kentang?](http://cybex.pertanian.go.id/mobile/artikel/89978/Langkah-Langkah--Budidaya-Kentang-/)
+ 🍴 All kind potatoes Lovers 🍟🥔, [Budidaya kentang?](http://cybex.pertanian.go.id/mobile/artikel/89978/Langkah-Langkah--Budidaya-Kentang-/)
 
-- 🐸 Also froggie lovers 💚, [See more about frog !](https://www.amphibianlife.com/frog-facts-for-kids/)
+ 🐸 Also froggie lovers 💚, [See more about frog !](https://www.amphibianlife.com/frog-facts-for-kids/)
 
-- 📫 How to reach me *desvilia@mhs.mdp.ac.id*
+ 📫 How to reach me *desvilia@mhs.mdp.ac.id*
 
-- 📄 Know about my experiences : I only had hard life experiences
+ 📄 Know about my experiences : I only had hard life experiences
 
 <p align="right"> ⚡ Fun fact *I fall in love with 'A' 🤍*></p>
 
