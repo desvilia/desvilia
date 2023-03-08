@@ -16,7 +16,7 @@
 
 - 📫 How to reach me *desvilia@mhs.mdp.ac.id*
 
-- 📄 Know about my experiences : [I only had hard life experiences](I only had hard life experiences)
+- 📄 Know about my experiences : I only had hard life experiences
 
 - ⚡ Fun fact *I fall in love with 'A' 🤍*
 
