@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact *I think i love 'A' 🤍*
 
-<"right">![76ed](https://user-images.githubusercontent.com/126872569/223807130-ad7c4803-687f-4622-a560-b778a1af14b4.gif)</right>
+![76ed](https://user-images.githubusercontent.com/126872569/223807130-ad7c4803-687f-4622-a560-b778a1af14b4.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
