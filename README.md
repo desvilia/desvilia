@@ -1,10 +1,12 @@
-![MasterHead](https://user-images.githubusercontent.com/126872569/223806020-d17f400f-bfc9-48c9-bf6b-f70d204a64d9.gif)
+![MasterHead](https://im3.ezgif.com/tmp/ezgif-3-f6a629a086.gif)
 <h1 align="center">Hi Guys 👋, I'm Desvilia</h1>
 <h3 align="center">Love Green💚</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/14q82mYdlR8AAAAi/peachcat-cat.gif">
 
+[![](https://visitcount.itsvg.in/api?id=desvilia&icon=0&color=3)](https://visitcount.itsvg.in)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=desvilia&label=Profile%20views&color=0e75b6&style=flat" alt="desvilia" /> </p>
+
+#  🙈 About Me :
 
  🔭 I'm Teaching Chineese Language at [Blessing course](https://blessing-dempo.business.site/)
 
@@ -34,7 +36,7 @@
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=desvilia&show_icons=true&locale=en&layout=compact" alt="desvilia" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=desvilia&show_icons=true&locale=en&layout=compact" alt="desvilia" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=desvilia&show_icons=true&locale=en" alt="desvilia" /></p>
 
