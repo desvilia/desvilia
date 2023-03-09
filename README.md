@@ -2,7 +2,7 @@
 [![](https://visitcount.itsvg.in/api?id=desvilia&icon=0&color=3)](https://visitcount.itsvg.in)
 <h1 align="center">Hi Guys 👋, I'm Desvilia</h1>
 <h3 align="center">Love Green💚</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/14q82mYdlR8AAAAi/peachcat-cat.gif">
+<img align="right" alt="Coding" width="350" src="https://media.tenor.com/14q82mYdlR8AAAAi/peachcat-cat.gif">
 
 ##  🙈 About Me :
 
